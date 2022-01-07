@@ -1,0 +1,125 @@
+[{
+    "id" : "1",
+    "title" : "Adidas black t-shirt lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "mainImage" : "images/main 1.png",
+    "soconderyImages" : [{
+        "id" : "1",
+        "source" : "images/main 1.png"
+    },
+    {
+        "id" : "2",
+        "source" : "images/main 2.png"
+    },
+    {
+        "id" : "3",
+        "source" : "images/main 3.png"
+    },
+    {
+        "id" : "4",
+        "source" : "images/main 4.png"
+    }],
+    "price" : 9999,
+    "rate" : "4.9",
+    "companyslogo" : "images/addidas.svg" ,
+    "company" : "adidas"
+},
+{
+    "id" : "2",
+    "title" : " lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "mainImage" : "images/similar-main1.png",
+    "soconderyImages" : [{
+        "id" : "1",
+        "source" : ""
+    },
+    {
+        "id" : "2",
+        "source" : ""
+    },
+    {
+        "id" : "3",
+        "source" : ""
+    },
+    {
+        "id" : "4",
+        "source" : ""
+    }],
+    "price" : 9999,
+    "rate" : "4.9",
+    "companyslogo" : "images/addidas.svg",
+    "company" : "adidas"
+},
+{
+    "id" : "3",
+    "title" : " lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "mainImage" : "images/similer-main2.png",
+    "soconderyImages" : [{
+        "id" : "1",
+        "source" : ""
+    },
+    {
+        "id" : "2",
+        "source" : ""
+    },
+    {
+        "id" : "3",
+        "source" : ""
+    },
+    {
+        "id" : "4",
+        "source" : ""
+    }],
+    "price" : 9999,
+    "rate" : "4.9",
+    "companyslogo" : "images/addidas.svg",
+    "company" : "adidas"
+},
+{
+    "id" : "4",
+    "title" : " lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "mainImage" : "images/similer-main3.png",
+    "soconderyImages" : [{
+        "id" : "1",
+        "source" : ""
+    },
+    {
+        "id" : "2",
+        "source" : ""
+    },
+    {
+        "id" : "3",
+        "source" : ""
+    },
+    {
+        "id" : "4",
+        "source" : ""
+    }],
+    "price" : 9999,
+    "rate" : "4.9",
+    "companyslogo" : "/images/addidas.svg",
+    "company" : "adidas" 
+},
+{
+    "id" : "5",
+    "title" : " lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "mainImage" : "images/similer-main4.png",
+    "soconderyImages" : [{
+        "id" : "1",
+        "source" : ""
+    },
+    {
+        "id" : "2",
+        "source" : ""
+    },
+    {
+        "id" : "3",
+        "source" : ""
+    },
+    {
+        "id" : "4",
+        "source" : ""
+    }],
+    "price" : 9999,
+    "rate" : "4.9",
+    "companyslogo" : "images/addidas.svg",
+    "company" : "adidas" 
+}]

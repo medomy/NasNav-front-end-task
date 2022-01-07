@@ -1,0 +1,31 @@
+.footer{
+    background-color: #3C3C3B;
+    color: white;
+    ul{
+        list-style-type: none;
+        a{
+            text-decoration: none;
+            color: white;
+            font-size: 14px;
+        }
+    }
+    .line-footer-border{
+        border-right: rgba($color: #ffffff, $alpha: 0.3) solid 0.5px;
+    }
+    .footer-form{
+        position: relative;
+        input{
+            border-radius: 24px;
+        }
+        .round-btn{
+            border-radius: 24px;
+            position: absolute;
+            top: 0;
+            right: 5px;
+        }
+    }
+    .top-line-border{
+        border-top: rgba($color: #ffffff, $alpha: 0.3) solid 0.5px;
+        padding: 1em;
+    }
+}

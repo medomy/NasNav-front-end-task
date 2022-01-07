@@ -1,0 +1,28 @@
+@import url('../cart/cartItem.scss');
+.row{
+    .search-btn{
+        left: .7em;
+    }
+    .search-bar{
+        border-radius: 24px;
+        padding-left: 2.5em;
+    }
+    a{
+        color: black;
+        font-size: 16px;
+    }
+}
+.drawer-btn{
+    border-radius: 24px !important;
+    text-align: center !important;
+    font-weight: 600 !important;
+}
+.txt-white{
+    color: white;
+}
+.badge{
+    color: black !important;
+    position: absolute;
+    top: 8px !important ;
+    right: 22px;
+}

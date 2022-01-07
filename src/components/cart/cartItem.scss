@@ -1,0 +1,17 @@
+.cart-card{
+    width: 90% !important;
+    border: #ECECEC 0.75px solid;
+    border-radius: 7px;
+    padding: 0.2em;
+    .cartItem-title{
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .cart-btn{
+        width: 35%;
+        border-radius: 24px;
+        text-align: center;
+        font-weight: 600;
+        
+    }
+}

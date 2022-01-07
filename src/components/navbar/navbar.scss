@@ -1,0 +1,15 @@
+@import '../../Colors.scss';
+
+.Mynav{
+    background-color: $primary !important;
+    .navbar-text{
+        font-size: 14px;
+        color: #000000 !important;
+    }
+}
+a{
+    text-decoration: underline;
+    color: #000000;
+    font-weight: 600 !important;
+    
+}

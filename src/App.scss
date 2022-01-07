@@ -1,0 +1,20 @@
+@import './Colors.scss';
+@import url('./pages/productDeailsPage/productDetails.scss');
+
+
+.cbg-primary{
+    background-color: $primary !important;
+}
+
+.cbg-socendry{
+    background-color: $socondry !important;
+}
+
+.txt-primary{
+    color: $primary !important;
+}
+.txt-socendry{
+    color: $socondry !important;
+    font-weight: 700;
+}
+
